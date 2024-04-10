@@ -1,2 +1,16 @@
-# jazz-kissa-retrospective
-Jazz Kissa Retrospective: A web app for journaling and cherishing your jazz kissa memories. You can record your experiences in jazz kissa—cafes where you can listen to jazz records—you visit in a digital diary.
+# Jazz Kissa Retrospective
+
+Jazz Kissa Retrospective は、ジャズ喫茶を巡ることが好きな人のための、訪れたジャズ喫茶の思い出を楽しく記録するためのWebアプリです。
+
+## アプリの特徴
+
+フリーフォーマットのメモ（紙、スマートフォンのデフォルトのメモアプリ、スプレッドシートアプリなど）と違い、このアプリは以下の項目を記録することに特化されています。
+
+- 訪問したジャズ喫茶
+- 訪問日
+- 訪問時に印象に残ったレコードの情報
+- その訪問に関連するメモ（お店やレコードに関するメモ、そのときの日記など）
+
+入力された記録の一つ一つは、レコードのジャケットのようにデザインされた画像とともに保存されます。
+
+ジャズのレコードをコレクションするように、訪れたジャズ喫茶の思い出をコレクションするようにジャズ喫茶巡りの記録ができることが、このアプリの特徴です。
